@@ -33,3 +33,16 @@ main {
     border-radius: 30px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+.lista-titulo{
+    margin: 5px;
+}
+
+.separacion{
+    padding: 15px 0;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    text-decoration: underline;
+}
