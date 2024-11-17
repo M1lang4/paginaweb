@@ -46,3 +46,23 @@ h2 {
     color: #333;
     text-decoration: underline;
 }
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contacto form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contacto label {
+    margin: 5px 0 2px;
+}
+
+.contacto input, .contacto textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ee80d6;
+    border-radius: 10px;
+}
