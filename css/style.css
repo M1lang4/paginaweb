@@ -100,3 +100,20 @@ footer {
     border-radius: 10px;
 
 }
+.img1 {
+    top: 530px;
+    left: 430px;
+    transform: rotate(20deg);
+}
+
+.img2 {
+    top: 500px;
+    left: 900px;
+    transform: rotate(-30deg); 
+}
+
+.img3 {
+    top: 500px;
+    left: 700px;
+    transform: rotate(0deg);
+}
