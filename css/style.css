@@ -66,3 +66,25 @@ ul {
     border: 1px solid #ee80d6;
     border-radius: 10px;
 }
+.contacto button {
+    padding: 10px;
+    background: #67406d;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+   cursor: pointer;
+}
+
+.contacto button:hover {
+    background: #2f1431;
+}
+
+.redes a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #b143bb;
+}
+
+.redes a:hover {
+    text-decoration: underline;
+}
