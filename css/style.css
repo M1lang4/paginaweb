@@ -11,3 +11,13 @@ body {
     background-color: #b884bb;
     
 }
+.contendor{
+    font-size: large;
+}
+
+header {
+    background: #67406d;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
