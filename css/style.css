@@ -88,3 +88,15 @@ ul {
 .redes a:hover {
     text-decoration: underline;
 }
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #67406d;
+    color: #fff;
+}
+.imagen {
+    position: absolute;
+    border: 5px solid #913f91; 
+    border-radius: 10px;
+
+}
